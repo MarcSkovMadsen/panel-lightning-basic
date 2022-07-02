@@ -4,7 +4,9 @@
 
 Basic example of a [Panel](https://panel.holoviz.org) [lightning.ai](https://lightning.ai/) Lightning Web UI.
 
-![Panel Lighting Basic Web UI](assets/panel-lightning-basic.gif)
+[![Panel Lighting Basic Web UI](assets/panel-lightning-basic.gif)](https://01g6z4w0fgxzp3npc9cr2dmthh.litng-ai-03.litng.ai/view/Home).
+
+You can try out the [live app here](https://01g6z4w0fgxzp3npc9cr2dmthh.litng-ai-03.litng.ai/view/Home).
 
 ## ⚙️ Install Locally
 
